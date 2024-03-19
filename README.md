@@ -1,6 +1,9 @@
 # 💫 About Me:
 👋 Hi, I’m @dogusakyuz. Hey there! I'm a legal pro turned tech enthusiast on a mission to blend the best of both worlds. With a solid background in law and a newfound passion for fullstack development, I'm all about bringing fresh perspectives to the table. Detail-oriented, curious, and always up for a challenge, I thrive in dynamic environments where creativity meets innovation. 
-<br>📫 How to reach me av.dogusakyuz@gmail.com<br>⚡ Fun fact: I'm an amateur theatre player who played more than 50 plays.
+<br> How to reach me 
+<br> av.dogusakyuz@gmail.com
+<br> https://www.linkedin.com/in/dogusakyuz/
+<br> Fun fact: I'm an amateur theatre player who played more than 50 plays.
 
 
 # 💻 Tech Stack:
